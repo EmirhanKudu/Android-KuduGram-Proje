@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BaslangicActivity"
+    android:orientation="vertical">
+
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="220dp"
+        android:src="@drawable/"
+        android:scaleType="centerCrop"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:text="GİRİŞ YAP"
+        android:id="@+id/btn_giris"
+        android:textColor="@color/cardview_light_background"
+        android:background="@drawable/kudugramarkaplan"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:text="KAYDOL"
+        android:id="@+id/btn_kaydol"
+        android:textColor="@color/cardview_light_background"
+        android:background="@drawable/kudugramarkaplan"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"/>
+
+
+
+
+
+
+</LinearLayout>

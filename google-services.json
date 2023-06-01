@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "77638422145",
+    "project_id": "kudugram-4c4ad",
+    "storage_bucket": "kudugram-4c4ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77638422145:android:dfa1fd08d605413531c780",
+        "android_client_info": {
+          "package_name": "com.example.newkudugram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77638422145-mp8vlomll9mgq1j5poemao6r8sofpm7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdeta6VxZyLJfCq-NZowP_-_VVGT8WeiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77638422145-mp8vlomll9mgq1j5poemao6r8sofpm7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
